@@ -309,7 +309,7 @@
               "text-align": "center"
             },
             ".mbr-section-subtitle": {
-              "color": "#ca1414"
+              "color": "#000000"
             }
           },
           "_name": "features18",
