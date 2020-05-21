@@ -1,5 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 @import url(https://fonts.googleapis.com/css?family=Anton:400&display=swap);
+@import url(https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i&display=swap);
 
 
 
@@ -9,7 +9,7 @@ body {
   font-family: Rubik;
 }
 .display-1 {
-  font-family: 'Rubik', sans-serif;
+  font-family: 'Anton', sans-serif;
   font-size: 4.25rem;
   font-display: swap;
 }
@@ -743,45 +743,35 @@ section.lazy-placeholder:after {
 .cid-rXXzyc7mnU H1 {
   color: #ffffff;
 }
-.cid-rXXCYh2TBM {
+.cid-rZExiY48he {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #cccccc;
+  background-image: url("../../../assets/images/papel-de-parede-costura-60cm-x-1-50m-quarto-1200x1200.jpg");
 }
-.cid-rXXCYh2TBM h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-rXXCYh2TBM p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-rXXCYh2TBM .mbr-section-btn {
-  padding-top: 2.5rem;
-}
-.cid-rXXCYh2TBM .mbr-section-btn a {
-  margin: 0;
-}
-.cid-rXXCYh2TBM .mbr-text {
-  color: #767676;
-}
-.cid-rXXCYh2TBM .card-wrapper {
-  height: 100%;
-}
-@media (max-width: 767px) {
-  .cid-rXXCYh2TBM .card:not(.last-child) {
-    padding-bottom: 2rem;
-  }
-}
-.cid-rXXCYh2TBM .card-title {
+.cid-rZExiY48he .mbr-section-subtitle {
+  color: #0b3d74;
   text-align: center;
-  color: #000000;
+  font-weight: 300;
 }
-.cid-rXXCYh2TBM H2 {
+.cid-rZExiY48he .step {
+  width: 40px;
+  height: 40px;
+  font-size: 20px;
+  border-radius: 50%;
+  border: 2px solid #fa1010;
   text-align: center;
+}
+.cid-rZExiY48he .separline {
+  position: relative;
+}
+.cid-rZExiY48he .separline:after {
+  top: 44px;
+  left: 18px;
+  position: absolute;
+  content: "";
+  width: 2px;
+  height: calc(100% - (20px + 4px) * 2);
+  background-color: #fa1010;
 }
 .cid-rXXFb1aYcC {
   padding-top: 90px;
@@ -838,6 +828,7 @@ section.lazy-placeholder:after {
 .cid-rXXFb1aYcC .card-wrapper .card-box p {
   margin-bottom: 0;
   padding-top: 1.5rem;
+  padding-top: 2rem;
 }
 .cid-rXXFb1aYcC .card-wrapper:hover {
   box-shadow: 0px 0px 30px 0px rgba(0, 0, 0, 0.05);
@@ -854,6 +845,9 @@ section.lazy-placeholder:after {
 }
 .cid-rXXFb1aYcC .card-title {
   text-align: center;
+}
+.cid-rXXFb1aYcC .mbr-section-subtitle {
+  color: #ca1414;
 }
 .cid-rY2FSFrrlb {
   padding-top: 90px;
