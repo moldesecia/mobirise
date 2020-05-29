@@ -745,7 +745,7 @@ section.lazy-placeholder:after {
 }
 .cid-rZExiY48he {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 0px;
   background-image: url("../../../assets/images/papel-de-parede-costura-60cm-x-1-50m-quarto-1200x1200.jpg");
 }
 .cid-rZExiY48he .mbr-section-subtitle {
@@ -754,24 +754,27 @@ section.lazy-placeholder:after {
   font-weight: 300;
 }
 .cid-rZExiY48he .step {
-  width: 40px;
-  height: 40px;
-  font-size: 20px;
+  width: 48px;
+  height: 48px;
+  font-size: 24px;
   border-radius: 50%;
   border: 2px solid #fa1010;
-  text-align: center;
+  text-align: left;
 }
 .cid-rZExiY48he .separline {
   position: relative;
 }
 .cid-rZExiY48he .separline:after {
-  top: 44px;
-  left: 18px;
+  top: 52px;
+  left: 22px;
   position: absolute;
   content: "";
   width: 2px;
-  height: calc(100% - (20px + 4px) * 2);
+  height: calc(100% - (24px + 4px) * 2);
   background-color: #fa1010;
+}
+.cid-rZExiY48he .mbr-step-title {
+  text-align: left;
 }
 .cid-rXXFb1aYcC {
   padding-top: 90px;
