@@ -714,7 +714,7 @@ section.lazy-placeholder:after {
 .cid-rXXx6Qq4Na {
   padding-top: 90px;
   padding-bottom: 90px;
-  background: linear-gradient(45deg, #0f7699, #ff7f9f);
+  background: linear-gradient(45deg, #0f7699, #ffffff);
 }
 @media (min-width: 992px) {
   .cid-rXXx6Qq4Na .mbr-figure {
@@ -732,16 +732,16 @@ section.lazy-placeholder:after {
   color: #000000;
 }
 .cid-rXXx6Qq4Na .mbr-section-title {
-  color: #ffffff;
+  color: #fa1010;
   text-align: center;
 }
 .cid-rXXzyc7mnU {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #418297;
+  background-color: #ff3396;
 }
 .cid-rXXzyc7mnU H1 {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-rZExiY48he {
   padding-top: 90px;
@@ -850,12 +850,12 @@ section.lazy-placeholder:after {
   text-align: center;
 }
 .cid-rXXFb1aYcC .mbr-section-subtitle {
-  color: #000000;
+  color: #fa1010;
 }
 .cid-rY2FSFrrlb {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-rY2FSFrrlb .socicon-bg-facebook {
   background: #3e5b98;
@@ -953,6 +953,9 @@ section.lazy-placeholder:after {
 }
 .cid-rY2FNIhLt1 .team-item .item-caption {
   background: #efefef;
+}
+.cid-rY2FNIhLt1 H2 {
+  text-align: center;
 }
 .cid-rXXHcQbNGn {
   padding-top: 90px;
