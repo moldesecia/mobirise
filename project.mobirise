@@ -510,6 +510,19 @@
                 "customStyle1": "display-7",
                 "caption": "Digite aqui a legenda",
                 "active": false
+              },
+              {
+                "tags": "Responsivo",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "image": "@PROJECT_PATH@/assets/images/kostenloses-schnittmuster-naehmaschinentasche-quadrat-2-side-1000x500.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kostenloses-schnittmuster-naehmaschinentasche-quadrat-2-side-1000x500-800x400.jpg",
+                "alt": "",
+                "title": "",
+                "customStyle1": "display-7",
+                "caption": "Digite aqui a legenda",
+                "active": false
               }
             ]
           }
